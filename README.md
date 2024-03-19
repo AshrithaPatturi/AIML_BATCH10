@@ -1,4 +1,5 @@
 # sample(https://colab.research.google.com/drive/130QXItflfk4o1S6aVPDgBLaxd2vmNYqa?authuser=1)
+1.[lab-01](https://github.com/AshrithaPatturi/AIML_BATCH10/blob/main/Lab01_AIML.ipynb)
 2.[lab-02](https://github.com/AshrithaPatturi/AIML_BATCH10/blob/main/AIML_Lab_02.ipynb)
 3.[lab-03](https://github.com/AshrithaPatturi/AIML_BATCH10/blob/main/lab_03.ipynb)
 4.[lab-04](https://github.com/AshrithaPatturi/AIML_BATCH10/blob/main/Lab_04.ipynb)
