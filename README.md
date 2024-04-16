@@ -7,3 +7,4 @@
 6.[lab-06](https://github.com/AshrithaPatturi/AIML_BATCH10/blob/main/LAB_06.ipynb)
 7.[lab-07](https://github.com/AshrithaPatturi/AIML_BATCH10/blob/main/Lab_07.ipynb)
 8.[lab-08](https://github.com/AshrithaPatturi/AIML_BATCH10/blob/main/Lab_08.ipynb)
+9.[lab-09](https://github.com/AshrithaPatturi/AIML_BATCH10/blob/main/Lab_09.ipynb)
